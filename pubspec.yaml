@@ -1,0 +1,12 @@
+name: voxsnap
+description: Pure Dart binary delta snapshot serialization, quantized transform streams, circular rewind buffers, and smooth ghost replay tracks.
+version: 0.1.0
+repository: https://github.com/soulwax/voxsnap
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  test: ^1.24.0
+  lints: ^3.0.0
