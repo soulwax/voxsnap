@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="88" alt="voxsnap logo"/>
+</p>
+
 # voxsnap
 
 Pure Dart deterministic binary state snapshots, smallest-three quaternion packing, XOR/RLE delta compression, O(1) time-rewind ring buffers, and smooth interpolated ghost replays.
